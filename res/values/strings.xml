@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spinner Using Strings</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string-array name="cars">
+        <item >Ferrari</item>
+        <item >BMW</item>
+        <item >Mercedes</item>
+        <item >Audi</item>
+        <item >Lamborghini</item>
+        <item >Ford</item>
+        <item >Rolls-Royce</item>
+        <item >Porsche</item>
+        <item >Volkswagen</item>
+    </string-array>
+
+</resources>
